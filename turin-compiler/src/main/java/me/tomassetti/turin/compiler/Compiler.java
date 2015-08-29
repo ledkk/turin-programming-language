@@ -4,11 +4,9 @@ import com.google.common.collect.ImmutableList;
 import me.tomassetti.turin.analysis.InFileResolver;
 import me.tomassetti.turin.analysis.Property;
 import me.tomassetti.turin.analysis.Resolver;
-import me.tomassetti.turin.ast.*;
 import me.tomassetti.turin.implicit.BasicTypes;
 import org.objectweb.asm.*;
 
-import javax.lang.model.type.ReferenceType;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;

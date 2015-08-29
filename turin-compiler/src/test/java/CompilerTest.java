@@ -1,7 +1,6 @@
 import me.tomassetti.turin.*;
 import me.tomassetti.turin.compiler.ClassFileDefinition;
 import me.tomassetti.turin.compiler.Compiler;
-import me.tomassetti.turin.ast.*;
 import org.junit.Test;
 
 import java.lang.reflect.InvocationTargetException;

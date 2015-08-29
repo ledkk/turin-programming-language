@@ -1,6 +1,5 @@
 import me.tomassetti.turin.analysis.InFileResolver;
 import me.tomassetti.turin.analysis.Resolver;
-import me.tomassetti.turin.ast.*;
 import org.junit.Before;
 import org.junit.Test;
 
